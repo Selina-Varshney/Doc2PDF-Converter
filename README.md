@@ -36,6 +36,9 @@ https://github.com/user-attachments/assets/11b7ff0a-36ff-4aa9-8405-7bc920766c42
 ### Frontend Setup:
 - cd client-> npm run dev
 
+## Deployment
+- in progress
+
 
 
 
