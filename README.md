@@ -13,14 +13,14 @@ https://github.com/user-attachments/assets/11b7ff0a-36ff-4aa9-8405-7bc920766c42
 ## Technologies Used
 
 ### Backend:
-- **Node.js**: Server-side runtime environment.
+- **Node.js**
 - **npm Libraries**:
   - **Multer**: For handling file uploads and temporary disk storage.
   - **LibreOffice**: For converting documents to PDF.
   - **HummusJS**: For password protecting the generated PDFs.
 
 ### Frontend:
-- **React.js**: Frontend JavaScript library for building user interfaces.
+- **React.js**
 - **Tailwind CSS**: Utility-first CSS framework for responsive and fast UI development.
 
 ### Tools:
@@ -29,8 +29,6 @@ https://github.com/user-attachments/assets/11b7ff0a-36ff-4aa9-8405-7bc920766c42
 - **Git & GitHub**: For version control and collaboration.
 
 ## 🛠 Installation and Setup
-
-Follow the instructions below to set up the project locally.
 
 ### Backend Setup:
 - cd server-> npm start
