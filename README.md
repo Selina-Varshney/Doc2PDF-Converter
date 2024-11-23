@@ -1,6 +1,6 @@
 # Document to PDF Converter - RapidFort Submission
 
-This project provides a document to PDF converter with password protection functionality. It supports the conversion of `.doc` and `.docx` files to PDF, along with secure password encryption.
+This project provides a document to PDF converter with password protection functionality. 
 
 ## Demo Video:
 
