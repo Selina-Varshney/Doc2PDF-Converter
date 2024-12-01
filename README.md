@@ -1,4 +1,4 @@
-# Document to PDF Converter - RapidFort Submission
+# Document to PDF Converter 
 
 This project provides a document to PDF converter with password protection functionality. 
 
